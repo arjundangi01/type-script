@@ -2,7 +2,45 @@ import React from 'react'
 
 const Card = () => {
   return (
-    <div>Card</div>
+    <div>
+
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+      <div>
+        <h1>Hello </h1>
+      </div>
+    </div>
   )
 }
 
